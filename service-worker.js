@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/menion93.github.io/precache-manifest.8c732f9fc445f1b9bd87996174798671.js"
+  "/menion93.github.io/precache-manifest.3610108fddb90e687a2e05b071b5bad5.js"
 );
 
 workbox.clientsClaim();
