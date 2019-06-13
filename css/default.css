@@ -810,6 +810,13 @@ properly.
   color: #979EA6;
 }
 
-
-
+.particles {  
+  position: absolute;
+  height: 100vh;
+  background-color: rgb(4, 35, 65);
+  right: 0;
+  bottom: -10;
+  left: 0;
+  z-index: -1;
+}
 
